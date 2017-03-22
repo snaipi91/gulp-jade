@@ -1,0 +1,14 @@
+@import "reset";
+@import "reset";
+@import "fonts";
+@import "variables";
+@import "mixins";
+@import "extend";
+@import "global";
+
+@import "partials/header";
+
+@import "../templates/partials/_blocks/input/input";
+@import "../templates/partials/_blocks/input-oval/input";
+
+@import "partials/footer";
