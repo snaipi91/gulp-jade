@@ -1,5 +1,5 @@
 # Сборка для frontend
-![jsperov@gmail.com](https://jscompress.com/img/jscompress-logo-square.png)
+![jsperov@gmail.com](https://www.reclamare.ua/wp-content/uploads/2015/10/jade-logo.png)
 ## Установка
     npm install
 ## Запуск сервера
