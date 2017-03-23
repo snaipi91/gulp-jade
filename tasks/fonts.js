@@ -4,7 +4,7 @@ import gulp        from 'gulp';
 import fontmin     from 'gulp-fontmin';
 import size        from 'gulp-filesize';
 
-import * as config from '../../../../Users/Andrey/DEV-912/config'
+import * as config from '../config'
 
 export default () => {
     gulp.src(config.SRC_PATH + config.FONTS_PATH)

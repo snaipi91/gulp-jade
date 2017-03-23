@@ -6,7 +6,7 @@ import concat       from 'gulp-concat';
 import browserSync  from 'browser-sync';
 import size         from 'gulp-filesize';
 
-import * as config from '../../../../Users/Andrey/DEV-912/config.js';
+import * as config from '../config.js';
 
 export default () => {
      gulp.src(config.SASS_PATH)

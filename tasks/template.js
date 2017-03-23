@@ -5,7 +5,7 @@ import jade         from 'gulp-jade';
 import browserSync  from 'browser-sync';
 import size         from 'gulp-filesize';
 
-import * as config  from '../../../../Users/Andrey/DEV-912/config';
+import * as config  from '../config';
 
 export default () => {
     gulp.src(config.SRC_PATH + config.JADE_PATH)

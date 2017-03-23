@@ -28,6 +28,6 @@ gulp.task(
         'jade',
         // 'media',
         'js',
-        'sync',
+        'sync'
     ]
 );

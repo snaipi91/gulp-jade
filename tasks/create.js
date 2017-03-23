@@ -3,7 +3,7 @@
 import fs from 'fs';
 import path from 'path';
 
-import * as config from '../../../../Users/Andrey/DEV-912/config';
+import * as config from '../config';
 
 export default () => {
     fs.readdir(config.PUBLIC_PATH, function (err, data) {
